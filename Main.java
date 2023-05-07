@@ -209,11 +209,6 @@ public class Main extends Application {
                             Button addTheTeam = new Button("save team");
 
                             HBox hBox2 = new HBox();
-
-
-
-
-
                             Label label = new Label("if you want to add another team just rewrite the data in the text fields to sout the new team information and save it again");
                             hBox2.getChildren().add(label);
                             hBox2.getChildren().add(addTheTeam);

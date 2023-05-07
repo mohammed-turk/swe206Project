@@ -75,6 +75,10 @@ public class Tournament {
 //        delete the return
         return new Match[1  ];
     }
+    public Match[] eliminationMatches(Team[] teams){
+//        delete the return
+        return new Match[1  ];
+    }
     public void modifyElimination(){
 
     }
